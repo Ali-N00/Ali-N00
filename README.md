@@ -54,7 +54,7 @@ I'm passionate about **React**, **Next.js**, and building responsive, beautiful 
 ### 🖼️ تصویر پایانی | Dark Themed Banner  
 
 <p align="center">
-  <img src="https://i.imgur.com/jx17oG9.gif" alt="Night coding" width="600"/>
+  <img src="https://i.imgur.com/0LwQGjp.gif" alt="Dark coding animation" width="600"/>
 </p>
 
 ---
